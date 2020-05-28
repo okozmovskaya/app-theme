@@ -38,15 +38,15 @@ __A User can see my initial repository and live demo__
 
 > This site-block is displayed on each pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find.
 
-Add title and links for style-css.  
-Add header with name of company and navigation in the right-side of header.  
-Use minimum text.
+- Add title and links for style-css.  
+- Add header with name of company and navigation in the right-side of header.  
+- Use minimum text.
 
 ### CSS
 
-Use mono color for background of header.   
-Use contrast color of font.  
-Use hover for navigation.
+- Use mono color for background of header.   
+- Use contrast color of font.  
+- Use hover for navigation.
 
 ---
 ---
@@ -63,9 +63,9 @@ Use hover for navigation.
 
 > This site-block is displayed only on Home-page with aim attract attention, decorate site and reveal the product which company offers and his advantages . These advantages must be understandable and remembered.
 
-Add section with Welcome-prase and short nice introduction.
-Add 6 section with 6 type of advantages of product.  
-Each section consist of logo-img, head and short paragraph.
+- Add section with Welcome-prase and short nice introduction.
+- Add 6 section with 6 type of advantages of product.  
+- Each section consist of logo-img, head and short paragraph.
 
 
 ### CSS
@@ -119,14 +119,14 @@ Each section consist of logo-img, head and short paragraph.
 
 > This site-block is displayed on each pages. It is needed for confirmation that all information on site owned by company.
 
-Add paragraph about owner of site and copyright.  
-Add the year of creation of the site.  
+- Add paragraph about owner of site and copyright.  
+- Add the year of creation of the site.  
 
 ### CSS
 
-Use contrast font.  
-Use a little font.  
-Use mono color of background in harmony with the overall color scheme.   
+- Use contrast font.  
+- Use a little font.  
+- Use mono color of background in harmony with the overall color scheme.   
 
 ---
 ---
@@ -224,8 +224,8 @@ Html-files without changes.
 
 > This step of development need for tune-up site for different displays: phone, tablet, computer. It's necessary to web-site will not lose some information and can be readable on any device.
 
-Tune-up max and min width, float, text-align and margins.
-Check that all properties of flexboxgrid.css are working correctly.
+- Tune-up max and min width, float, text-align and margins.
+- Check that all properties of flexbox.css are working correctly.
 
 ----
 ----
