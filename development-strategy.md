@@ -95,12 +95,14 @@ Each section consist of logo-img, head and short paragraph.
 - Add section with phone-number, e-mail and address
 - Add section with small text About us
 - Add form for newsletter
+- Add button for form
 
 ### CSS
 
 - Add foto how app looks like
 - Use contrast font
-- Use mono color for background 
+- Use mono color for background
+- Use colorful bright color for button 
 
 ---
 ---
@@ -182,19 +184,28 @@ Use mono color of background in harmony with the overall color scheme.
 
 ## 7. Contact
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `7-contact`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #13.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This branch about the fourth page of site which call Contact. On this page site-visitor should have possibility to send question or make order if some of services will interest him. This page should be part of overall site.
+
+- Create contact.html.     
+- Add html tags, title Contact and link to css file.  
+- Copy-paste header, one part of infosection and footer from index.html.  
+- Add section Main with form: name, e-mail and placeholder for message.
+- Add button for form.     
 
 ### CSS
 
-what did you change in the CSS and why?
+Make highlight background color for form.
+Use colorful bright color for button. 
+
+
 
 ---
 ---
