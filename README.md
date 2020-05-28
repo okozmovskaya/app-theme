@@ -2,7 +2,7 @@
 
 This project about development simple web-site with applying incremental-development, adding git-branches consistently and imitation collaboration workflow. Project was developed by one person.
 All steps of incremental-development are describe in [development-strategy](./development-strategy.md).
-Web-site was published on github.io.
+Web-site was published on [github.io](https://okozmovskaya.github.io/app-theme/).
 
 ---
 
