@@ -70,30 +70,37 @@ Each section consist of logo-img, head and short paragraph.
 
 ### CSS
 
-Add simple foto as background for showcase relevant company activities.
-Add special box for welcome-prase and short introduction.
-Tune contrast font. 
-Use colorful outline images as logo-img of services.
+- Add simple foto as background for showcase relevant company activities.
+- Add special box for welcome-prase and short introduction.
+- Tune contrast font. 
+- Use colorful outline images as logo-img of advantages.
 
 ---
 ---
 
 ## 3. Infosection
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `3-infosection`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #5.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block consist of two parts. First part is displayed only on Home-page and presented product company. Second part is displayed on each pages and contains contacts of company, form for sign up and short information about.   
+> Site-visitor expects from this site-block visual description about product and his advantages and different ways to learn more about product: phone number, e-mail, subscription etc.  
+
+- Add section with list of benefits
+- Add section with phone-number, e-mail and address
+- Add section with small text About us
+- Add form for newsletter
 
 ### CSS
 
-what did you change in the CSS and why?
-
+- Add foto how app looks like.
+- Use contrast font.
+- Use mono color for background 
 
 ---
 ---
