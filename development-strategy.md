@@ -1,16 +1,20 @@
 # Development Strategy
 
-> `name-of-project`
+> `App-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This project is a simple little website developing with git branches, incremental-development and imitation collaborating (developed by one person)
+- This project would interest for novice students of web-development because there is example of applying git branches, incremental-development and collaborating workflow.
 
-## Wireframe
+## Wireframes
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+#### Home page
+![wireframe Home page](./wireframes/Home.png)  
+#### About page
+![wireframe About page](./wireframes/About.png)  
+#### Services page
+![wireframe Services page](./wireframes/Services.png)  
+#### Contact page
+![wireframe Contact page](./wireframes/Contact.png)  
 
 ## 0. Set-Up
 
@@ -22,7 +26,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Header
 
 __full user story description__
 
@@ -38,16 +42,144 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## 2. ...
+---
+---
 
-...
+## 2. Showcase
 
-...
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+---
+---
+
+## 3. Infosection
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+
+---
+---
+
+## 4. Footer
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+---
+---
+
+## 5. About
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+---
+---
+
+## 6. Services
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+---
+---
+
+## 7. Contact
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+---
+---
+
+## 8. Media queries
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+----
+----
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Write final, complete README
 - Validate code to check for any last mistakes
