@@ -156,19 +156,26 @@ Use mono color of background in harmony with the overall color scheme.
 
 ## 6. Services
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `6-services`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #11.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This branch about the third page of site which call Services. On this page site-visitor expect to see all services of company with descriptions. This page should be part of overall site.
+
+- Create services.html.     
+- Add html tags, title Services and link to css file.  
+- Copy-paste header, one part of infosection and footer from index.html.  
+- Add section Main with list of 3 services: head and description for each.      
 
 ### CSS
 
-what did you change in the CSS and why?
+- Make highlight background color for each services in list.
+- Use contrast background.  
+
 
 ---
 ---
