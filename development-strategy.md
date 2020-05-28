@@ -28,19 +28,25 @@ __A User can see my initial repository and live demo__
 
 ## 1. Header
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `1-header`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #1.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed on each pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find.
+
+Add title and links for style-css.  
+Add header with name of company and navigation in the right-side of header.  
+Use minimum text.
 
 ### CSS
 
-what did you change in the CSS and why?
+Use mono color for background of header.   
+Use contrast color of font.  
+Use hover for navigation.
 
 ---
 ---
