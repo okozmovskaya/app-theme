@@ -98,8 +98,8 @@ Each section consist of logo-img, head and short paragraph.
 
 ### CSS
 
-- Add foto how app looks like.
-- Use contrast font.
+- Add foto how app looks like
+- Use contrast font
 - Use mono color for background 
 
 ---
@@ -107,19 +107,25 @@ Each section consist of logo-img, head and short paragraph.
 
 ## 4. Footer
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `4-footer`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #7.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed on each pages. It is needed for confirmation that all information on site owned by company.
+
+Add paragraph about owner of site and copyright.  
+Add the year of creation of the site.  
 
 ### CSS
 
-what did you change in the CSS and why?
+Use contrast font.  
+Use a little font.  
+Use mono color of background in harmony with the overall color scheme.  
+    
 
 ---
 ---
