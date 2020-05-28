@@ -53,19 +53,27 @@ Use hover for navigation.
 
 ## 2. Showcase
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `2-showcase`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #3.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed only on Home-page with aim attract attention, decorate site and reveal the product which company offers and his advantages . These advantages must be understandable and remembered.
+
+Add section with Welcome-prase and short nice introduction.
+Add 6 section with 6 type of advantages of product.  
+Each section consist of logo-img, head and short paragraph.
+
 
 ### CSS
 
-what did you change in the CSS and why?
+Add simple foto as background for showcase relevant company activities.
+Add special box for welcome-prase and short introduction.
+Tune contrast font. 
+Use colorful outline images as logo-img of services.
 
 ---
 ---
