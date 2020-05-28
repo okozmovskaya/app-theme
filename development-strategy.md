@@ -124,27 +124,32 @@ Add the year of creation of the site.
 
 Use contrast font.  
 Use a little font.  
-Use mono color of background in harmony with the overall color scheme.  
-    
+Use mono color of background in harmony with the overall color scheme.   
 
 ---
 ---
 
 ## 5. About
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `5-about`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #9.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This branch about the second page of site which call About Us. On this page site-visitor expect to see some information about company and what she do. This page should be part of overall site.
+
+- Create about.html.   
+- Add html tags, title About and link to css file.  
+- Copy-paste header, one part of infosection and footer from index.html.  
+- Add section Main with some nice information about company (Who we are, What we do).     
 
 ### CSS
 
-what did you change in the CSS and why?
+- Make highlight headers.
+- Use contrast background.
 
 ---
 ---
