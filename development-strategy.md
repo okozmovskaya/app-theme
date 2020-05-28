@@ -202,29 +202,30 @@ Use mono color of background in harmony with the overall color scheme.
 
 ### CSS
 
-Make highlight background color for form.
-Use colorful bright color for button. 
-
-
+- Make highlight background color for form.
+- Use colorful bright color for button. 
 
 ---
 ---
 
 ## 8. Media queries
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `8-media-queries`
+- It was pushed to github in new original branch when the feature was finished.
+- It was merged to master by pull request and closing issue #15.
 
 ### HTML
 
-what did you change in the HTML and why?
+Html-files without changes.
 
 ### CSS
 
-what did you change in the CSS and why?
+> This step of development need for tune-up site for different displays: phone, tablet, computer. It's necessary to web-site will not lose some information and can be readable on any device.
+
+Tune-up max and min width, float, text-align and margins.
+Check that all properties of flexboxgrid.css are working correctly.
 
 ----
 ----
