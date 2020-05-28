@@ -162,3 +162,19 @@ body{
 #page{
     margin-bottom:40px;
   }
+
+  /* SERVICES */
+.services ul li{
+    list-style:none;
+    padding:10px;
+  }
+  
+  .services ul li:nth-child(odd){
+    background:#333;
+    color:#fff;
+  }
+  
+  .services ul li:nth-child(even){
+    background:#56a79a;
+    color:#fff;
+  }
